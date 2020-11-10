@@ -21,7 +21,7 @@ public class RestSingleton {
     private static Context context;
 
     //Server address
-    private String url = "http://akka.d.umn.edu:32882/";
+    private String url = "http://ukko.d.umn.edu:32882/";
 
 
     /**
@@ -29,8 +29,8 @@ public class RestSingleton {
      * @param c The context of the call being made
      */
     private RestSingleton (Context c) {
-            context = c;
-            requestQueue = getRequestQueue();
+        context = c;
+        requestQueue = getRequestQueue();
     }
 
     /**

@@ -14,6 +14,7 @@
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"
         android:background="#4CAF50"
+        android:tag="DOWNLOAD"
         android:text="Download"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -26,6 +27,7 @@
         android:layout_marginLeft="16dp"
         android:layout_marginBottom="16dp"
         android:background="#4CAF50"
+        android:tag="UPLOAD"
         android:text="Upload"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />

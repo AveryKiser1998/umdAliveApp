@@ -9,6 +9,7 @@
 
     <string name="upEvents"><u>Upcoming Events</u></string>
     <string name="clubMem"><u>Members</u></string>
+    <string name="mediaButtonString">Media</string>
 
 
 </resources>
