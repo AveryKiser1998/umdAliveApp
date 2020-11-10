@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620656090358",
+    "firebase_url": "https://caramel-dialect-293719.firebaseio.com",
+    "project_id": "caramel-dialect-293719",
+    "storage_bucket": "caramel-dialect-293719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620656090358:android:05b709f6e0dd2520cda0d7",
+        "android_client_info": {
+          "package_name": "com.example.cs4532.umdalive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620656090358-7td9tub6v3fddgcq59fa9ftiacs1r69h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cs4532.umdalive",
+            "certificate_hash": "17272dd7eb338c1a2b2334f630fb79390e9bfbe0"
+          }
+        },
+        {
+          "client_id": "620656090358-peavr0f76kop80r716te10qbjv4dfe9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCxKlLWRLFgpsQvgsfaK89q4zZCkSs3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620656090358-peavr0f76kop80r716te10qbjv4dfe9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
